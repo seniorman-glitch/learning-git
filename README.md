@@ -1,3 +1,3 @@
 # learning-git
 
-This repo was used t learn git from amigoscode
+This repo was used to learn git from amigoscode
